@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default class Calc extends React.Component {
+export default class Calculator extends React.Component {
   Button = (props) => (
     <button
       {...props}
