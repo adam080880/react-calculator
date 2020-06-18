@@ -12,5 +12,12 @@
     "arrow-body-style": "warn",
     "class-methods-use-this": "off",
     "react/prop-types": "off"
+  },
+  "settings": {
+    "import/resolver": {
+      "node": {
+        "extensions": [".js", ".jsx", ".ts", ".tsx"]
+      }
+    }
   }
 }
